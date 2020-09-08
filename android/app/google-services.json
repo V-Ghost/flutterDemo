@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "29572051348",
+    "firebase_url": "https://ceyca-mobile.firebaseio.com",
+    "project_id": "ceyca-mobile",
+    "storage_bucket": "ceyca-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29572051348:android:c59b5e4d7475d10c",
+        "android_client_info": {
+          "package_name": "com.ceyca.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29572051348-a560ct452rhijcd3tupje7kpuj3afft7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ceyca.connect",
+            "certificate_hash": "7df6de78c5f371507b27a1965f67fa9a4233e4d3"
+          }
+        },
+        {
+          "client_id": "29572051348-50murt3dgegbalac69iv66b5904nc1mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCX2eUe1wh5SVW51DFmOiBvU0cdX1ap-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29572051348-50murt3dgegbalac69iv66b5904nc1mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29572051348:android:b9a1e4ecf560f6ae389f81",
+        "android_client_info": {
+          "package_name": "com.example.ceyca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29572051348-50murt3dgegbalac69iv66b5904nc1mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCX2eUe1wh5SVW51DFmOiBvU0cdX1ap-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29572051348-50murt3dgegbalac69iv66b5904nc1mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

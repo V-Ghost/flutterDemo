@@ -1,0 +1,83 @@
+name: ceyca
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  flutter_icons: ^1.1.0
+  table_calendar: ^2.0.2
+  firebase_database: ^3.1.1
+  firebase_core: ^0.4.3+1
+  cloud_firestore: ^0.13.0+1
+  provider: ^3.2.0
+  firebase_image: ^0.1.6
+  time_formatter: ^1.0.0
+  cached_network_image: ^2.0.0
+  http: ^0.12.0+4
+  firebase_storage: ^3.1.5
+  solid_bottom_sheet: ^0.1.9
+  youtube_player_flutter: ^6.1.0+4
+  google_fonts: ^1.0.0
+  date_time_format: ^1.0.0+4
+  flutter_launcher_icons: ^0.7.4
+  url_launcher: ^5.5.0
+  firebase_messaging: ^6.0.16
+   
+  
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  chewie: ^0.9.7
+
+flutter_icons:
+  image_path: 'assets/images/CEYC1.png'
+  android: true
+  
+  
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    
+    - assets/images/devotion.png
+    - assets/images/CEYC1.png
+    - assets/images/instagram.png
+    - assets/images/twitter.png
+    
+    
+   
+
+  fonts:
+   
+
+
+    - family: Bellota
+      fonts:
+        - asset: assets/fonts/Bellota-Regular.ttf
+          weight: 700
+
+    - family: Pacifico
+      fonts:
+        - asset: assets/fonts/Pacifico-Regular.ttf
+          weight: 700
+
+    - family: Liu
+      fonts:
+        - asset: assets\fonts\LiuJianMaoCao-Regular.ttf
+          weight: 700    
+
+    - family: Merriweather
+      fonts:
+        - asset: assets/fonts/MerriweatherSans-Regular.ttf
+          weight: 700
+
+ 
